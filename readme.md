@@ -1,4 +1,4 @@
-#👋 Hi, I'm Nisarga.
+# 👋 Hi, I'm Nisarga.
 I write code & contribute to open source software when I'm not busy with my studies.
 
 ## My Holopin Badges
