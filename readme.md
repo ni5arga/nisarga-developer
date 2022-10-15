@@ -7,3 +7,6 @@ I write code & contribute to open source software when I'm not busy with my stud
 ## 💻 My GitHub Stats 
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=nisarga-developer&count_private=true&show_icons=true&theme=dracula)
+
+## 🎶 Stalk My Spotify 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=2g78prniwnob6e44but33jbyq&count=5)
