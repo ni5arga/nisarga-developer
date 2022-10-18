@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Nisarga.
-I write code & contribute to open source software when I'm not busy with my studies.
+I write code & contribute to open source software when I'm not busy with my studies. More info on my site https://nisarga.is-a.dev/
 
 ## My Holopin Badges
 [![@ni5arga's Holopin board](https://holopin.me/ni5arga)](https://holopin.io/@ni5arga)
