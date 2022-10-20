@@ -12,7 +12,7 @@ I write code & contribute to open source software when I'm not busy with my stud
 [![@ni5arga's Holopin board](https://holopin.me/ni5arga)](https://holopin.io/@ni5arga)
 
 ## 💻 My GitHub Stats 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nisarga-developer&langs_count=10)](https://github.com/nisarga-developer)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nisarga-developer&langs_count=5)](https://github.com/nisarga-developer)
 
 ## 🎶 Stalk My Spotify 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=2g78prniwnob6e44but33jbyq&count=5)
