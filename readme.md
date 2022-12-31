@@ -1,9 +1,7 @@
-# 👋 Hi, I'm Nisarga.
+# 👋 Hi, I'm Nisarga, a developer & hacker from India.
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1000&pause=1000&width=435&lines=Full+Stack+Developer;Ethical+Hacker;Reverse+Engineer;Pentester;Tech+Enthusiast;Ricer;Blogger;Android+Developer)](https://github.com/Nisarga-Developer/nisarga-developer)
-
-
 
 
 I write code & contribute to open source software when I'm not busy with my studies. More info on my site https://nisarga.is-a.dev/
