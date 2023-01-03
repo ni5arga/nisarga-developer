@@ -10,6 +10,8 @@ I write code & contribute to open source software when I'm not busy with my stud
 [![@ni5arga's Holopin board](https://holopin.me/ni5arga)](https://holopin.io/@ni5arga)
 
 ## 💻 My GitHub Stats 
+
+[![Stats](https://github-stats-alpha.vercel.app/api/?username=nisarga-developer&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/nisarga-developer "Stats")<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nisarga-developer&langs_count=5)](https://github.com/nisarga-developer)
 
 ## 🎶 Stalk My Spotify 
