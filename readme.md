@@ -14,7 +14,7 @@ I love solving maths, exploring physics and watching anime apart from playing wi
 
 ## Get In Touch
 
-- GitHub [@Nisarga-Developer](https://github.com/nisarga-developer)
+- Website [https://nisarga.me](https://nisarga.me)
 - Instagram [@ni5arga](https://instagram.com/ni5arga)
 - Telegram [@ni5arga](https://ni5arga.t.me/)
 - Email [adhikarynisarga17@gmail.com](mailto:adhikarynisarga17@gmail.com)
@@ -23,4 +23,4 @@ I love solving maths, exploring physics and watching anime apart from playing wi
 
 ---
 
-Made with 💖 by [Nisarga Adhikary](https://github.com/nisarga-developer) using Next.js & Nextra
+Feel free to follow me here!
