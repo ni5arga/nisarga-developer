@@ -23,4 +23,4 @@ I love solving maths, exploring physics and watching anime apart from playing wi
 
 ---
 
-Feel free to follow me here!
+Feel free to follow too see what I create, fork or star!
