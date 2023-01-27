@@ -19,7 +19,7 @@ I love solving maths, exploring physics and watching anime apart from playing wi
 - Telegram [@ni5arga](https://ni5arga.t.me/)
 - Email [adhikarynisarga17@gmail.com](mailto:adhikarynisarga17@gmail.com)
 - Discord : NisargaCodez#3080
-- Spotify [Ni5arga](https://open.spotify.com/user/2g78prniwnob6e44but33jbyq)
+- Spotify [Ni5arga](https://open.spotify.com/user/2g78prniwnob6e44but33jbyq?si=20c57940da4341ae)
 
 ---
 
