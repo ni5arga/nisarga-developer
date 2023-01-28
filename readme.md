@@ -11,10 +11,7 @@ I contribute to open source projects when I'm not busy with my studies & assignm
 I love solving maths, exploring physics and watching anime apart from playing with computers and coding. I want to become a software developer, cybersecurity professional or an entrepeneur. I am currently focusing on my studies, life and academics. 
 
 
-
-<details><summary>Trophies</summary>
-[![trophy](https://github-profile-trophy.vercel.app/?username=nisarga-developer&theme=onedark)](https://github.com/Nisarga-Developer)
-</details>
+[![trophy](https://github-profile-trophy.vercel.app/?username=nisarga-developer&theme=onedark)](https://github.com/nisarga-developer)
 
 ## Get In Touch
 
@@ -22,7 +19,7 @@ I love solving maths, exploring physics and watching anime apart from playing wi
 - Instagram [@ni5arga](https://instagram.com/ni5arga)
 - Telegram [@ni5arga](https://ni5arga.t.me/)
 - Email [adhikarynisarga17@gmail.com](mailto:adhikarynisarga17@gmail.com)
-- Discord : NisargaCodez#3080
+- Discord : [NisargaCodez#3080](https://discord.com/users/746040983992533072)
 - Spotify [Ni5arga](https://open.spotify.com/user/2g78prniwnob6e44but33jbyq?si=20c57940da4341ae)
 
 ---
