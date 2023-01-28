@@ -10,6 +10,7 @@ I am experienced with stuff like AWS, Heroku, Google Cloud etc. I am a huge Linu
 I contribute to open source projects when I'm not busy with my studies & assignments. I also maintain some open source projects on GitHub.
 I love solving maths, exploring physics and watching anime apart from playing with computers and coding. I want to become a software developer, cybersecurity professional or an entrepeneur. I am currently focusing on my studies, life and academics. 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=nisarga-developer&theme=onedark)](https://github.com/Nisarga-Developer)
 ---
 
 ## Get In Touch
