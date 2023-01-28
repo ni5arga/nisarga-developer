@@ -13,12 +13,12 @@ I love solving maths, exploring physics and watching anime apart from playing wi
 
 
 
-<details> -->
+<details>
 
-<!--   <summary> Github Trophies :-</summary>
+  <summary> GitHub Trophies </summary>
+  
 [![trophy](https://github-profile-trophy.vercel.app/?username=nisarga-developer&theme=onedark)](https://github.com/nisarga-developer)
-
-</details> -->
+</details>
 
 ## Get In Touch
 
