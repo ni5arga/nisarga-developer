@@ -10,8 +10,33 @@ I am experienced with stuff like AWS, Heroku, Google Cloud etc. I am a huge Linu
 I contribute to open source projects when I'm not busy with my studies & assignments. I also maintain some open source projects on GitHub.
 I love solving maths, exploring physics and watching anime apart from playing with computers and coding. I want to become a software developer, cybersecurity professional or an entrepeneur. I am currently focusing on my studies, life and academics. 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nisarga-developer&theme=onedark)](https://github.com/Nisarga-Developer)
----
+
+
+
+<details>
+
+  <summary> GitHub Trophies </summary>
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=nisarga-developer&theme=onedark)](https://github.com/nisarga-developer)
+</details>
+
+<details>
+
+  <summary> My Holopin Badges </summary>
+  
+[![@ni5arga's Holopin board](https://holopin.me/ni5arga)](https://holopin.io/@ni5arga)
+  
+</details>
+
+<details>
+
+  <summary> Currently Listening To </summary>
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2g78prniwnob6e44but33jbyq&cover_image=true&theme=novatorem&show_offline=false&background_color=222020&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=2g78prniwnob6e44but33jbyq&redirect=true)
+  
+</details>
+
+
 
 ## Get In Touch
 
@@ -19,7 +44,7 @@ I love solving maths, exploring physics and watching anime apart from playing wi
 - Instagram [@ni5arga](https://instagram.com/ni5arga)
 - Telegram [@ni5arga](https://ni5arga.t.me/)
 - Email [adhikarynisarga17@gmail.com](mailto:adhikarynisarga17@gmail.com)
-- Discord : NisargaCodez#3080
+- Discord : [NisargaCodez#3080](https://discord.com/users/746040983992533072)
 - Spotify [Ni5arga](https://open.spotify.com/user/2g78prniwnob6e44but33jbyq?si=20c57940da4341ae)
 
 ---
