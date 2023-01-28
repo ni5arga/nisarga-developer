@@ -11,7 +11,14 @@ I contribute to open source projects when I'm not busy with my studies & assignm
 I love solving maths, exploring physics and watching anime apart from playing with computers and coding. I want to become a software developer, cybersecurity professional or an entrepeneur. I am currently focusing on my studies, life and academics. 
 
 
+
+
+<details> -->
+
+<!--   <summary> Github Trophies :-</summary>
 [![trophy](https://github-profile-trophy.vercel.app/?username=nisarga-developer&theme=onedark)](https://github.com/nisarga-developer)
+
+</details> -->
 
 ## Get In Touch
 
