@@ -28,7 +28,7 @@ I love solving maths, exploring physics and watching anime apart from playing wi
   
 </details>
 
-<details>
+<details open>
 
   <summary> Currently Listening To </summary>
   
