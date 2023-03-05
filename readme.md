@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1000&pause=1000&width=435&lines=Full+Stack+Developer;Ethical+Hacker;Reverse+Engineer;Pentester;Tech+Enthusiast;Ricer;Blogger;Android+Developer)](https://github.com/Nisarga-Developer/nisarga-developer)
 
-I'm a 16 year old full stack web developer, cybersecurity enthusiast and student. I build useless and ocassionally useful stuff.
+I'm a 16 year old full stack web developer, cybersecurity enthusiast and student. I build useless and ocassionally useful stuff. Check out my [website](https://nisarga.me) for more details.
 
 
 
