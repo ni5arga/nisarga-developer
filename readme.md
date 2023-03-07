@@ -44,4 +44,4 @@ I'm a 16 year old full stack web developer, cybersecurity enthusiast and student
 
 ---
 
-Feel free to follow me to see what I create, fork or star!
+🍃 Feel free to follow me to see what I create, fork or star!
