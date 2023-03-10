@@ -37,9 +37,10 @@ I'm a 16 year old full stack web developer, cybersecurity enthusiast and student
 
 - Website [https://nisarga.me](https://nisarga.me)
 - Instagram [@ni5arga](https://instagram.com/ni5arga)
+- Twitter [@ni5arga](https://twitter.com/ni5arga)
 - Telegram [@ni5arga](https://ni5arga.t.me/)
 - Email [adhikarynisarga17@gmail.com](mailto:adhikarynisarga17@gmail.com)
-- Discord : [NisargaCodez#3080](https://discord.com/users/746040983992533072)
+- Discord [NisargaCodez#3080](https://discord.com/users/746040983992533072)
 - Spotify [Ni5arga](https://open.spotify.com/user/2g78prniwnob6e44but33jbyq?si=20c57940da4341ae)
 
 ---
