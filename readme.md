@@ -22,7 +22,10 @@ I'm a 16 year old full stack web developer, pentester, cybersecurity enthusiast 
 [![@ni5arga's Holopin board](https://holopin.me/ni5arga)](https://holopin.io/@ni5arga)
   
 </details>
-
+<details>
+  <summary> GitHub Stats </summary>
+[![Contribution Stats](https://next-github-tau.vercel.app/api/card?username=ni5arga)](https://github.com/ni5arga)
+</details>
 <details open>
 
   <summary> Currently Listening To </summary>
