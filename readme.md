@@ -34,7 +34,7 @@ I'm a 16 year old full stack web developer, pentester, cybersecurity enthusiast 
 <details open>
 
   <summary> Streak Stats </summary>
- [![GitHub Streak](https://streak-stats.demolab.com?user=ni5arga)]
+[![GitHub Streak](https://streak-stats.demolab.com?user=ni5arga&theme=highcontrast)](https://github.com/ni5arga)
 </details>
 
 
