@@ -45,7 +45,7 @@ I'm a 16 year old full stack web developer, pentester, cybersecurity enthusiast 
 - Spotify [Ni5arga](https://open.spotify.com/user/2g78prniwnob6e44but33jbyq?si=20c57940da4341ae)
 - Blog [https://blog.nisarga.me](https://blog.nisarga.me)
 
-- Mastodon <a rel="me" href="https://fosstodon.org/@ni5arga">@ni5arga@fosstodon.org </a>
+- Mastodon <a rel="me" href="https://fosstodon.org/@ni5arga">https://fosstodon.org/@ni5arga </a>
 
 ---
 
