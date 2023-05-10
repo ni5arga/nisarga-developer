@@ -16,6 +16,7 @@ I absolutely love researching and knowing new things - as well as hacking on wei
   | <a href="https://github.com/ni5arga"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ni5arga&show_icons=true&count_private=true&theme=vue&hide_border=true" alt="Nisarga's github stats" /></a> | <a href="https://github.com/ni5arga"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ni5arga&layout=compact&theme=vue&hide_border=true" /></a> |
 | ------------- | ------------- |
   
+  </details>
   
 <details open>
 
