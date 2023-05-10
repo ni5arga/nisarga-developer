@@ -9,7 +9,15 @@ I am the leader of a [Hack Club](https://hackclub.com) of over 500 members. I bu
 
 I absolutely love researching and knowing new things - as well as hacking on weird stuff and random ideas I get. I'm good at seamlessly collaborating with teams and people to build awesome things, manage projects and productive teams. Ask me anything, I'm always glad to help you out! Always up for a coffee chat, collaboration, open-source and much more. Catch me at my twitter, socials or drop me an email and don't hesitate to reach out to me directly.
 
+<details>
 
+  <summary> Github Stats 📊</summary>
+  
+  | <a href="https://github.com/ni5arga"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ni5arga&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Nisarga's github stats" /></a> | <a href="https://github.com/ni5arga"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ni5arga&layout=compact&theme=vue&hide_border=true" /></a> |
+| ------------- | ------------- |
+  
+  
+</details>
 
 
 ## Get In Touch
