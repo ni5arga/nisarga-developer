@@ -36,6 +36,9 @@ I'm a 16 year old full stack web developer, pentester, cybersecurity enthusiast 
 
 ## Get In Touch
 
+
+<img src="https://64.media.tumblr.com/e4baf28770781bc512e206c23c762f43/f082a74ef2dc77b8-f5/s400x600/bad2ffbfa1b6ca7252b0584df0430439423ef4c4.gif" width="400" align="right" />
+
 - Website [https://nisarga.me](https://nisarga.me)
 - Instagram [@ni5arga](https://instagram.com/ni5arga)
 - Twitter [@ni5arga](https://twitter.com/ni5arga)
@@ -45,8 +48,8 @@ I'm a 16 year old full stack web developer, pentester, cybersecurity enthusiast 
 - Discord [NisargaCodez#3080](https://discord.com/users/746040983992533072)
 - Spotify [Ni5arga](https://open.spotify.com/user/2g78prniwnob6e44but33jbyq?si=20c57940da4341ae)
 
-<img src="https://media.tenor.com/_W4iwStvJuIAAAAC/kimi-no-na-wa-anime.gif" width="300" align="right" />
+
+
 
 ---
-
 🍃 Feel free to follow me to see what I create, fork or star!
