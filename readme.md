@@ -43,7 +43,7 @@ I'm a 16 year old full stack web developer, pentester, cybersecurity enthusiast 
 - Email [hello@nisarga.me](mailto:hello@nisarga.me)
 - Discord [NisargaCodez#3080](https://discord.com/users/746040983992533072)
 - Spotify [Ni5arga](https://open.spotify.com/user/2g78prniwnob6e44but33jbyq?si=20c57940da4341ae)
-- Blog [https://blog.nisarga.me](https://blog.nisarga.me)
+
 
 ---
 
