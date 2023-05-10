@@ -1,4 +1,5 @@
 ## Hi, I'm Nisarga, a developer & hacker 👋
+![](https://e1.pxfuel.com/desktop-wallpaper/936/34/desktop-wallpaper-aesthetic-anime-gifs-laptop-rain-gaming-anime-girl-aesthetic.jpg)
 
 ---
 
@@ -6,7 +7,7 @@ My name is [Nisarga](https://nisarga.me) and I am a student & full stack web dev
 
 I am the leader of a [Hack Club](https://hackclub.com) of over 500 members. I build websites, apps, bots, APIs & other stuff to make your life easier. I'm a huge fan of open source software & I contribute to open source regularly. I'm a technology & cybersecurity enthusiast. I mostly code in Javascript, Python, Java & Go. I love to join open source communities & meet new like-minded people. If you want to know more about my tech stack, you can read about it [here](https://nisarga.me/about). 
 
-
+---
 
 ## Get In Touch
 
