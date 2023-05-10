@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Nisarga, a developer & hacker from India.
-![](https://w0.peakpx.com/wallpaper/319/554/HD-wallpaper-anime-school-girl-anime-landscape-clouds-scenic-summer-anime.jpg)
+![](https://media.tenor.com/WY3u24LxnCUAAAAM/aesthetic-anime.gif)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1000&pause=1000&width=435&lines=Full+Stack+Developer;Ethical+Hacker;Reverse+Engineer;Pentester;Tech+Enthusiast;Ricer;Blogger;Android+Developer)](https://github.com/Nisarga-Developer/ni5arga)
 
