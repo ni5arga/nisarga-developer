@@ -8,32 +8,6 @@ I'm a 16 year old full stack web developer, pentester, cybersecurity enthusiast 
 
 
 
-
-<details>
-
-  <summary> GitHub Trophies </summary>
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=ni5arga&theme=onedark)](https://github.com/ni5arga)
-</details>
-
-<details>
-
-  <summary> My Holopin Badges </summary>
-  
-[![@ni5arga's Holopin board](https://holopin.me/ni5arga)](https://holopin.io/@ni5arga)
-  
-</details>
-<details open>
-
-  <summary> Currently Listening To </summary>
-  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2g78prniwnob6e44but33jbyq&cover_image=true&theme=novatorem&show_offline=false&background_color=222020&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=2g78prniwnob6e44but33jbyq&redirect=true)
-  
-</details>
-
-
-
-
 ## Get In Touch
 
 
