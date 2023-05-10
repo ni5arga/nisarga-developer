@@ -21,10 +21,9 @@ I absolutely love researching and knowing new things - as well as hacking on wei
   <summary>Currently listening 🎶</summary>
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2g78prniwnob6e44but33jbyq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=2g78prniwnob6e44but33jbyq&redirect=true)
+    
 </details>
 
-  
-</details>
 
 
 ## Get In Touch
