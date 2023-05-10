@@ -12,7 +12,7 @@ I absolutely love researching and knowing new things - as well as hacking on wei
 <details>
 
   <summary> Github Stats 📊</summary>
-   <a href="https://github.com/ni5arga"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ni5arga&layout=compact&theme=vue&hide_border=true" /></a>
+   <a href="https://github.com/ni5arga"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ni5arga&layout=compact&theme=vue&hide_border=false" /></a>
 
   
   </details>
