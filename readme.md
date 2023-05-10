@@ -1,14 +1,13 @@
 ## Hi, I'm Nisarga, a developer & hacker 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1000&pause=1000&width=435&lines=Full+Stack+Developer;Ethical+Hacker;Reverse+Engineer;Pentester;Tech+Enthusiast;Ricer;Blogger;Android+Developer)](https://github.com/Nisarga-Developer/ni5arga)
 
-I'm a 16 year old full stack web developer, pentester, cybersecurity enthusiast and student. I build useless and ocassionally useful stuff. When I'm not studying, you can either find me watching Anime or writing code. Check out my [website](https://nisarga.me) for more details.
+---
 
+My name is [Nisarga](https://nisarga.me) and I am a student & full stack web developer from New Delhi, India.
+
+I am the leader of a [Hack Club](https://hackclub.com) of over 500 members. I build websites, apps, bots, APIs & other stuff to make your life easier. I'm a huge fan of open source software & I contribute to open source regularly. I'm a technology & cybersecurity enthusiast. I mostly code in Javascript, Python, Java & Go. I love to join open source communities & meet new like-minded people. If you want to know more about my tech stack, you can read about it [here](https://nisarga.me/about). 
 
 
 ## Get In Touch
-
-
-<img src="https://64.media.tumblr.com/e4baf28770781bc512e206c23c762f43/f082a74ef2dc77b8-f5/s400x600/bad2ffbfa1b6ca7252b0584df0430439423ef4c4.gif" width="400" align="right" />
 
 - Website [https://nisarga.me](https://nisarga.me)
 - Instagram [@ni5arga](https://instagram.com/ni5arga)
