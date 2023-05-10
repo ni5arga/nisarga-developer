@@ -1,7 +1,4 @@
 ## Hi, I'm Nisarga, a developer & hacker 👋
-
-![](https://e1.pxfuel.com/desktop-wallpaper/936/34/desktop-wallpaper-aesthetic-anime-gifs-laptop-rain-gaming-anime-girl-aesthetic.jpg)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1000&pause=1000&width=435&lines=Full+Stack+Developer;Ethical+Hacker;Reverse+Engineer;Pentester;Tech+Enthusiast;Ricer;Blogger;Android+Developer)](https://github.com/Nisarga-Developer/ni5arga)
 
 I'm a 16 year old full stack web developer, pentester, cybersecurity enthusiast and student. I build useless and ocassionally useful stuff. When I'm not studying, you can either find me watching Anime or writing code. Check out my [website](https://nisarga.me) for more details.
