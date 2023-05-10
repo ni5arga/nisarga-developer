@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Nisarga, a developer & hacker from India.
-![](https://i.pinimg.com/originals/74/fa/be/74fabe0ac2588f7f052170708b5136b8.gif)
+
+![](https://e1.pxfuel.com/desktop-wallpaper/936/34/desktop-wallpaper-aesthetic-anime-gifs-laptop-rain-gaming-anime-girl-aesthetic.jpg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1000&pause=1000&width=435&lines=Full+Stack+Developer;Ethical+Hacker;Reverse+Engineer;Pentester;Tech+Enthusiast;Ricer;Blogger;Android+Developer)](https://github.com/Nisarga-Developer/ni5arga)
 
@@ -13,13 +14,6 @@ I'm a 16 year old full stack web developer, pentester, cybersecurity enthusiast 
   <summary> GitHub Trophies </summary>
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=ni5arga&theme=onedark)](https://github.com/ni5arga)
-</details>
-
-<details>
-
-  <summary> GitHub Stats </summary>
-  
-![Nisarga's Stats](https://github-readme-stats.vercel.app/api?username=ni5arga&count_private=true)
 </details>
 
 <details>
