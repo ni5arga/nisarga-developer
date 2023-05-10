@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nisarga, a developer & hacker from India.
-![](https://i.redd.it/tswvfxlcnsa81.gif)
+![](https://w0.peakpx.com/wallpaper/319/554/HD-wallpaper-anime-school-girl-anime-landscape-clouds-scenic-summer-anime.jpg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1000&pause=1000&width=435&lines=Full+Stack+Developer;Ethical+Hacker;Reverse+Engineer;Pentester;Tech+Enthusiast;Ricer;Blogger;Android+Developer)](https://github.com/Nisarga-Developer/nisarga-developer)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1000&pause=1000&width=435&lines=Full+Stack+Developer;Ethical+Hacker;Reverse+Engineer;Pentester;Tech+Enthusiast;Ricer;Blogger;Android+Developer)](https://github.com/Nisarga-Developer/ni5arga)
 
 I'm a 16 year old full stack web developer, pentester, cybersecurity enthusiast and student. I build useless and ocassionally useful stuff. When I'm not studying, you can either find me watching Anime or writing code. Check out my [website](https://nisarga.me) for more details.
 
