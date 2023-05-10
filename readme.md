@@ -18,13 +18,6 @@ I'm a 16 year old full stack web developer, pentester, cybersecurity enthusiast 
 
 <details>
 
-  <summary> GitHub Stats </summary>
-  
-![Nisarga's Stats](https://github-readme-stats.vercel.app/api?username=ni5arga&count_private=true)
-</details>
-
-<details>
-
   <summary> My Holopin Badges </summary>
   
 [![@ni5arga's Holopin board](https://holopin.me/ni5arga)](https://holopin.io/@ni5arga)
