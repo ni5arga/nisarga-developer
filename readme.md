@@ -18,7 +18,6 @@ I absolutely love researching and knowing new things - as well as hacking on wei
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2g78prniwnob6e44but33jbyq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=2g78prniwnob6e44but33jbyq&redirect=true)
 </details>
 
-![](https://img.shields.io/github/stars/NI5Arga?affiliations=OWNER%2CCOLLABORATOR&label=%20Total%20Stars%20Earned&logo=github&style=for-the-badge)
 
 ## Get In Touch
 
