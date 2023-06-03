@@ -30,8 +30,7 @@ I absolutely love researching and knowing new things - as well as hacking on wei
 - Discord [ni5arga#3080](https://discord.com/users/746040983992533072)
 - Spotify [Ni5arga](https://open.spotify.com/user/2g78prniwnob6e44but33jbyq?si=20c57940da4341ae)
 - Bluesky [@nisarga.me](https://bsky.app/profile/nisarga.me)
-
-
+- Bento [ni5arga](https://bento.me/ni5arga)
 
 
 
