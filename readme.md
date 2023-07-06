@@ -29,7 +29,7 @@ I absolutely love researching and knowing new things - as well as hacking on wei
 - Email [hello@nisarga.me](mailto:hello@nisarga.me)
 - Discord [ni5arga](https://discord.com/users/746040983992533072)
 - Spotify [Ni5arga](https://open.spotify.com/user/2g78prniwnob6e44but33jbyq?si=20c57940da4341ae)
-- Threades [@Ni5arga](https://www.threads.net/@ni5arga)
+- Threads [@Ni5arga](https://www.threads.net/@ni5arga)
 - Bluesky [@nisarga.me](https://bsky.app/profile/nisarga.me)
 - Bento [ni5arga](https://bento.me/ni5arga)
 
