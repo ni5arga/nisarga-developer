@@ -24,7 +24,7 @@ I absolutely love researching and knowing new things - as well as hacking on wei
 - Website [https://nisarga.me](https://nisarga.me)
 - Instagram [@ni5arga](https://instagram.com/ni5arga)
 - Twitter [@ni5arga](https://twitter.com/ni5arga)
-- Telegram [@ni5arga](https://ni5arga.t.me/)
+- Last.fm [@ni5arga](https://;ast.fm/user/ni5arga)
 - Linkedin [@ni5arga](https://www.linkedin.com/in/ni5arga/)
 - Email [hello@nisarga.me](mailto:hello@nisarga.me)
 - Discord [ni5arga](https://discord.com/users/746040983992533072)
