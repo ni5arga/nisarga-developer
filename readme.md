@@ -24,16 +24,11 @@ I absolutely love researching and knowing new things - as well as hacking on wei
 ## Get In Touch
 
 - Website [https://nisarga.me](https://nisarga.me)
-- Instagram [@ni5arga](https://instagram.com/ni5arga)
 - Twitter [@ni5arga](https://twitter.com/ni5arga)
-- Last.fm [@ni5arga](https://last.fm/user/ni5arga)
 - Linkedin [@ni5arga](https://www.linkedin.com/in/ni5arga/)
 - Email [hello@nisarga.me](mailto:hello@nisarga.me)
 - Discord [ni5arga](https://discord.com/users/746040983992533072)
-- Spotify [Nisarga](https://open.spotify.com/user/2g78prniwnob6e44but33jbyq?si=20c57940da4341ae)
-- Threads [@ni5arga](https://www.threads.net/@ni5arga)
 - Bluesky [@nisarga.me](https://bsky.app/profile/nisarga.me)
-- Reddit [u/ni5arga](https://reddit.com/u/ni5arga)
 - Mastodon [@ni5arga@fosstodon.org](https://fosstodon.org/@ni5arga)
 
 ---
