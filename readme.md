@@ -23,8 +23,9 @@ I absolutely love researching and knowing new things - as well as hacking on wei
 
 ## Get In Touch
 
-- Website [https://nisarga.me](https://nisarga.me)
+- Website [nisarga.me](https://nisarga.me)
 - Twitter [@ni5arga](https://twitter.com/ni5arga)
+- Blog [blog.nisarga.me](https://blog.nisarga.me)
 - Linkedin [@ni5arga](https://www.linkedin.com/in/ni5arga/)
 - Email [hello@nisarga.me](mailto:hello@nisarga.me)
 - Discord [ni5arga](https://discord.com/users/746040983992533072)
