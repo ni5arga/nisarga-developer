@@ -29,7 +29,6 @@ I absolutely love researching and knowing new things - as well as hacking on wei
 - Email [hello@nisarga.me](mailto:hello@nisarga.me)
 - Discord [ni5arga](https://discord.com/users/746040983992533072)
 - Bluesky [@nisarga.me](https://bsky.app/profile/nisarga.me)
-- Mastodon [@ni5arga@fosstodon.org](https://fosstodon.org/@ni5arga)
 - Matrix [@ni5arga:matrix.org](https://matrix.to/#/@ni5arga:matrix.org)
 ---
 🍃 Feel free to follow me to see what I create, fork or star!
