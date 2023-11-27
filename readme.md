@@ -31,5 +31,6 @@ I absolutely love researching and knowing new things - as well as hacking on wei
 - Discord [ni5arga](https://discord.com/users/746040983992533072)
 - Bluesky [@nisarga.me](https://bsky.app/profile/nisarga.me)
 - Matrix [@ni5arga:matrix.org](https://matrix.to/#/@ni5arga:matrix.org)
+- TryHackMe [ni5arga](https://tryhackme.com/p/ni5arga)
 ---
 🍃 Feel free to follow me to see what I create, fork or star!
