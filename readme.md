@@ -11,7 +11,8 @@ I enjoy building bots, apps, silly webpages and experimenting with new things. I
 
 I absolutely love researching and knowing new things - as well as hacking on weird stuff and random ideas I get. I'm good at seamlessly collaborating with teams and people to build awesome things, manage projects and productive teams. Ask me anything, I'm always glad to help you out! Always up for a coffee chat, collaboration, open-source and much more. Catch me at my twitter, socials or drop me an email and don't hesitate to reach out to me directly.
 
-
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ni5arga&show_icons=true&locale=en&layout=compact" alt="ni5arga-lang-stats" />
+  <img width="200" src="https://i.pinimg.com/originals/ef/78/ab/ef78ab78dfd55dd03a51c6ce54fb393b.gif" alt="ni5arga-readme-pic" /> </p>
   
 
 ## Get In Touch
