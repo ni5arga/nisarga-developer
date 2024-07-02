@@ -5,7 +5,7 @@
 
 ---
 
-My name is [Nisarga](https://nisarga.me) and I am a student, hacker & full stack web developer from India.
+My name is [Nisarga](https://nisarga.me) and I am a student, cybersecurity researcher, hacker & software engineer from India. 
 
 I enjoy building bots, apps, silly webpages and experimenting with new things. I'm a huge Linux & FOSS fan. I'm keenly interested in Cybersecurity. I mostly code in Javascript, Python & Go. If you want to know more about my tech stack, you can read about it [here](https://nisarga.me/about). I love to play and solve CTF challenges as well as to take part in Cryptic Hunts. 
 
