@@ -18,13 +18,13 @@ I absolutely love researching and knowing new things - as well as hacking on wei
 ## Get In Touch
 
 - Website [nisarga.me](https://nisarga.me)
+- Blog [ni5arga.github.io](https://ni5arga.github.io)
 - Twitter [@ni5arga](https://twitter.com/ni5arga)
 - Linkedin [@ni5arga](https://www.linkedin.com/in/ni5arga/)
 - Email [hello@nisarga.me](mailto:hello@nisarga.me)
 - Discord [ni5arga](https://discord.com/users/746040983992533072)
 - Bluesky [@nisarga.me](https://bsky.app/profile/nisarga.me)
 - TryHackMe [ni5arga](https://tryhackme.com/p/ni5arga)
-- Blog [blog.nisarga.me](https://blog.nisarga.me)
 
 ---
 🍃 Feel free to follow me to see what I create, fork or star!
