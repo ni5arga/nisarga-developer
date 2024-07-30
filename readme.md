@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/nMrgu7N.png" width="300" height="200" />
+<img src="https://i.imgur.com/nMrgu7N.png"  height="200" />
 
 
 <samp>
