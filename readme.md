@@ -7,6 +7,6 @@
 
 backend // cybersecurity // linux
 
-[website](https://nisarga.me) | [blog](https://ni5arga.github.io)
+[website](https://nisarga.me) 
 
 <samp>
