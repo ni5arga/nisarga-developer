@@ -3,9 +3,9 @@
 
 <samp>
 
-**:3**
+:3
 
-**backend // cybersecurity // linux**
+backend // cybersecurity // linux
 
 [**website**](https://nisarga.me) 
 
