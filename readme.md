@@ -1,9 +1,9 @@
-<table>
+<table style="border: none; width: 100%;">
   <tr>
-    <td>
+    <td style="border: none; vertical-align: top; padding: 0;">
       <img src="https://i.imgur.com/q5ONKBR.gif" alt="GIF">
     </td>
-    <td style="vertical-align: top; padding-left: 10px;">
+    <td style="border: none; vertical-align: top; padding-left: 10px;">
       <p>
         cybersecurity // backend // reverse engineering
       </p>
@@ -13,4 +13,3 @@
     </td>
   </tr>
 </table>
-
