@@ -1,5 +1,4 @@
-<img src="https://i.imgur.com/nMrgu7N.png" height="300" />
-
+<img src="https://i.imgur.com/nMrgu7N.png" style="max-width: 100%; height: auto;" alt="header image">
 
 <samp>
 
@@ -7,6 +6,6 @@
 
 backend // cybersecurity // linux
 
-[**website**](https://nisarga.me) 
+<a href="https://nisarga.me"><strong>website</strong></a>
 
 <samp>
