@@ -1,4 +1,3 @@
-<img src="https://i.imgur.com/nMrgu7N.png" style="max-width: 100%; height: auto;" alt="header image">
 
 <samp>
 
